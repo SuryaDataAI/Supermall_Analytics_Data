@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+mlxtend
+matplotlib
+seaborn
+streamlit
+python-dotenv
+groq
+sqlite-utils
